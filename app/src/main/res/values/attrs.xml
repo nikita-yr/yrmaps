@@ -1,0 +1,4 @@
+<resources>
+    <!-- Define custom attributes -->
+    <attr name="map_background_color" format="color" />
+</resources>

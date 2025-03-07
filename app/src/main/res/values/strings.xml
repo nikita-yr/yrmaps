@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YR Maps</string>
+    <string name="open_local_map">Open Local Map</string>
+    <string name="add_map">Add Map</string>
+    <string name="gps_button">GPS</string>
+    <string name="open_map">Open Map</string>
+    <string name="ic_menu_folder">Open Folder</string>
+    <string name="loading_button">Loading Button</string>
+
+</resources>
+

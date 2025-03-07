@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Colors for light theme -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="primary_light">#E2E2E4</color>
+    <color name="primaryVariant_light">#E2E2E4</color>
+    <color name="onPrimary_light">#000000</color>
+    <color name="secondary_light">#E2E2E4</color>
+    <color name="secondaryVariant_light">#E2E2E4</color>
+    <color name="onSecondary_light">#FFFFFF</color>
+    <color name="map_background_color_light">#FFFFFF</color> <!-- Background color for map in light theme -->
+    
+    <!-- Colors for dark theme -->
+    <color name="background_dark">#000000</color>
+    <color name="primary_dark">#262626</color>
+    <color name="primaryVariant_dark">#FFFFFF</color>
+    <color name="onPrimary_dark">#FFFFFF</color>
+    <color name="secondary_dark">#FFFFFF</color>
+    <color name="secondaryVariant_dark">#FFFFFF</color>
+    <color name="onSecondary_dark">#000000</color>
+    <color name="map_background_color_dark">#000000</color> <!-- Background color for map in dark theme -->
+</resources>
